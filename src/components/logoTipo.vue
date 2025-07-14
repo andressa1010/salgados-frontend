@@ -96,7 +96,7 @@
    }
 
    .texto-cardapio h2{
-    font-size: 25px;
+    font-size: 20px;
     text-align: center;
    }
 
