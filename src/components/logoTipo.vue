@@ -87,7 +87,7 @@
 
    .texto{
     max-width: 400px;
-    font-size: 16px;
+    font-size: 20px;
    }
 
    .texto-cardapio{
